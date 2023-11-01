@@ -46,7 +46,7 @@
                 <img class="card-img-top" src="{{ p.image }}" alt="Card image">
                 <div class="card-body">
                     <h4 class="card-title">{{p.name}}</h4>
-                    <p class="card-text">{{ p.price }} VNĐ</p>
+                    <p class="card-text">{{ "{:,.1f}".format(p.price) }} VNĐ</p>
                     <a href="#" class="btn btn-primary">Xem chi tiết</a>
                     <a href="#" class="btn btn-danger">Đặt hàng</a>
                 </div>
@@ -60,7 +60,7 @@
   <!-- Copyright -->
   <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2);">
     © 2023 Copyright:
-    <a class="text-dark" href="https://mdbootstrap.com/">Nguyễn Hoài Tâm</a>
+    <a class="text-dark" href="#">Nguyễn Hoài Tâm</a>
   </div>
   <!-- Copyright -->
 </footer>

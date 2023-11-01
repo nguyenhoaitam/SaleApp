@@ -58,6 +58,16 @@ def load_products(kw=None):
     #     'name': 'Samsung Galaxy Z Flip5 5G',
     #     'price': 21990000,
     #     'image': 'https://cdn.tgdd.vn/Products/Images/42/299250/samsung-galaxy-zflip5-xanh-256gb-1-1.jpg'
+    # }, {
+    #     'id': 9,
+    #     'name': 'Samsung Galaxy Tab A8',
+    #     'price': 5890000,
+    #     'image': 'https://cdn.tgdd.vn/Products/Images/522/251704/samsung-galaxy-tab-a8-1-2.jpg'
+    #     }, {
+    #     'id': 10,
+    #     'name': 'iPad Air 5 M1 WiFi 64GB',
+    #     'price': 14390000,
+    #     'image': 'https://cdn.tgdd.vn/Products/Images/522/248096/ipad-air-5-m1-xam-1.jpg'
     # }]
     #
     # if kw:
