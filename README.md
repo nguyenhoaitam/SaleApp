@@ -1,2 +1,2 @@
 # SaleApp
-Demo web bán hàng
+Demo web bán hàng môn công nghệ phần mềm
